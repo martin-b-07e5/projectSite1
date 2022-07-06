@@ -1,3 +1,8 @@
+# files
+.directory
+.gitignore
+.github--icon.png
+
 # Compiled class file
 *.class
 
